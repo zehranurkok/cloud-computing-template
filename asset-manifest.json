@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/css/main.d010511c.chunk.css",
-    "main.js": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/main.2a7deaaa.chunk.js",
-    "main.js.map": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/main.2a7deaaa.chunk.js.map",
-    "runtime-main.js": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/runtime-main.dba89fb6.js",
-    "runtime-main.js.map": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/runtime-main.dba89fb6.js.map",
-    "static/js/2.8d2fc928.chunk.js": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/2.8d2fc928.chunk.js",
-    "static/js/2.8d2fc928.chunk.js.map": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/2.8d2fc928.chunk.js.map",
-    "index.html": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/index.html",
-    "static/css/main.d010511c.chunk.css.map": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/css/main.d010511c.chunk.css.map",
-    "static/js/2.8d2fc928.chunk.js.LICENSE.txt": "/%E2%80%9Chttp://zehranurkok.github.io/cloud-computing-template/static/js/2.8d2fc928.chunk.js.LICENSE.txt"
+    "main.css": "/cloud-computing-template/static/css/main.d010511c.chunk.css",
+    "main.js": "/cloud-computing-template/static/js/main.a9ddfa88.chunk.js",
+    "main.js.map": "/cloud-computing-template/static/js/main.a9ddfa88.chunk.js.map",
+    "runtime-main.js": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js",
+    "runtime-main.js.map": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js.map",
+    "static/js/2.8d2fc928.chunk.js": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js",
+    "static/js/2.8d2fc928.chunk.js.map": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.map",
+    "index.html": "/cloud-computing-template/index.html",
+    "static/css/main.d010511c.chunk.css.map": "/cloud-computing-template/static/css/main.d010511c.chunk.css.map",
+    "static/js/2.8d2fc928.chunk.js.LICENSE.txt": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dba89fb6.js",
+    "static/js/runtime-main.3aa00b92.js",
     "static/js/2.8d2fc928.chunk.js",
     "static/css/main.d010511c.chunk.css",
-    "static/js/main.2a7deaaa.chunk.js"
+    "static/js/main.a9ddfa88.chunk.js"
   ]
 }
