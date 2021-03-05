@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cloud-computing-template/static/css/main.d010511c.chunk.css",
-    "main.js": "/cloud-computing-template/static/js/main.a9ddfa88.chunk.js",
-    "main.js.map": "/cloud-computing-template/static/js/main.a9ddfa88.chunk.js.map",
+    "main.js": "/cloud-computing-template/static/js/main.fa5cc793.chunk.js",
+    "main.js.map": "/cloud-computing-template/static/js/main.fa5cc793.chunk.js.map",
     "runtime-main.js": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js",
     "runtime-main.js.map": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js.map",
     "static/js/2.8d2fc928.chunk.js": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3aa00b92.js",
     "static/js/2.8d2fc928.chunk.js",
     "static/css/main.d010511c.chunk.css",
-    "static/js/main.a9ddfa88.chunk.js"
+    "static/js/main.fa5cc793.chunk.js"
   ]
 }
