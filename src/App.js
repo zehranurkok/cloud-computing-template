@@ -13,10 +13,10 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/' exact component={Home}/>
-        <Route path='/services' exact component={Services}/>
-        <Route path='/learnmore' exact component={LearnMore}/>
-        <Route path='/sign-up' exact component={SignUp}/>
+        <Route path='/cloud-computing-template' exact component={Home}/>
+        <Route path='/cloud-computing-template/services' exact component={Services}/>
+        <Route path='/cloud-computing-template/learnmore' exact component={LearnMore}/>
+        <Route path='/cloud-computing-template/sign-up' exact component={SignUp}/>
       </Switch>
       <Footer/>
     </Router>
