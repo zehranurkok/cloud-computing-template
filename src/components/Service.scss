@@ -1,0 +1,117 @@
+$primary: #fff;
+$blue: #004e7c;
+$maroon: #591c0b;
+$darkbgcolor: #272725;
+
+.service__section {
+    padding: 20px 0 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: $primary;
+  }
+  
+  .service__container-card {
+    background: linear-gradient(45deg, $maroon 0%, $blue 100%);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 280px;
+    height: 500px;
+    text-decoration: none;
+  }
+  
+  .service__container-card:nth-child(2) {
+    transform: scale(1.05);
+    background: #242424;
+  }
+  
+  .service__container-card:hover {
+    transform: scale(1.06);
+    transition: all 0.3s ease-out;
+    color: $darkbgcolor;
+  }
+  
+  .service__container-card:nth-child(2) {
+    margin: 0 24px;
+  }
+  
+  .service__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .service__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin: 0 auto;
+  }
+  
+  .service__heading {
+    color: $darkbgcolor;
+    margin: 25px 0;
+  }
+  
+  .service__container-cardInfo {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    padding: 24px;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .service__container-cardInfo h4 {
+    font-size: 40px;
+  }
+
+  .service__container-features {
+    margin: 16px 0 32px;
+    list-style: none;
+  }
+  
+  .service__container-features li {
+    margin-bottom: 10px;
+  }
+  
+  .service__container-features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon {
+    margin: 35px 0;
+  }
+  
+  @media screen and (max-width: 960px) {
+    .service__container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+    }
+  
+    .service__container-card {
+      width: 90%;
+    }
+  
+    .service__wrapper {
+      margin: 0 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .service__container-card:nth-child(2) {
+      transform: scale(1);
+      background: #242424;
+      margin: 24px;
+    }
+  
+    .service__container-card:hover {
+      transform: none;
+    }
+  }

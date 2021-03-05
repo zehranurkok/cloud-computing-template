@@ -1,0 +1,116 @@
+$primary: #fff;
+$red: #b73225;
+$blue: #004e7c;
+$maroon: #591c0b;
+$darkcolor: #242424;
+
+.btn {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    outline: none;
+    white-space: nowrap;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    &--primary {
+        background-color: $primary;
+        color: #242424;
+        border: 1px solid $primary;
+    }
+
+    &--outline {
+        background-color: transparent;
+        border: 1px solid $primary;
+        color: $primary;
+        transition: all 0.3s ease-out;
+    }
+
+    &--medium {
+        font-size: 18px;
+    }
+
+    &--large {
+        font-size: 20px;
+        padding: 12px 26px;
+    }
+
+    &--mobile {
+        background-color: transparent;
+        border: 1px solid $primary;
+        border-radius: 4px;
+        color: var(--primary);
+        font-size: 18px;
+        padding: 14px 20px;
+        text-align: center;
+        text-decoration: none;
+        transition: all 0.3s ease-out;;
+        width: 80%;
+    }
+
+    &--wide {
+        font-size: 20px;
+        padding: 12px 64px;
+    }
+}
+
+
+.btn--large:hover, 
+.btn--medium:hover, 
+.btn--mobile:hover {
+    background: $primary;
+    color: $darkcolor;
+    transition: all 0.3s ease-out;
+}
+
+.btn--wide:hover {
+    background-color: $red;
+    color: $primary;
+    transition: all 0.2s ease-out;
+}
+
+.btn-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 8px 16px;
+    height: 100%;
+    width: 100%;
+    color: $primary;
+}
+
+.blue {
+    background-color: $blue;
+    border: none;
+    color: $primary;
+}
+
+.red {
+    background-color: $red;
+    border: none;
+    color: $primary;
+}
+
+.primary {
+    background-color: $darkcolor;
+    border: none;
+    color: $primary;
+}
+
+.primary:hover {
+    background-color: $primary;
+    border: none;
+    color: $darkcolor;
+}
+
+.maroon {
+    background-color: $maroon;
+    border: none;
+    color: $primary;
+}
+
+.maroon:hover {
+    background-color: $darkcolor;
+}
+
