@@ -14,7 +14,7 @@ function Service() {
                 <div className="service__wrapper">
                     <h1 className="service__heading">Hizmetler</h1>
                     <div className="service__container">
-                        <Link to="/sign-up" className="service__container-card">
+                        <Link to="/cloud-computing-template/sign-up" className="service__container-card">
                             <div className="service__container-cardInfo">
                                 <div className="icon">
                                     <IoCloudDoneOutline />
@@ -27,7 +27,7 @@ function Service() {
                             </div>
                         </Link>
 
-                        <Link to="/sign-up" className="service__container-card">
+                        <Link to="/cloud-computing-template/sign-up" className="service__container-card">
                             <div className="service__container-cardInfo">
                                 <div className="icon">
                                     <IoCloudOutline />
@@ -40,7 +40,7 @@ function Service() {
                             </div>
                         </Link>
 
-                        <Link to="/sign-up" className="service__container-card">
+                        <Link to="/cloud-computing-template/sign-up" className="service__container-card">
                             <div className="service__container-cardInfo">
                                 <div className="icon">
                                     <IoCloudUploadOutline />

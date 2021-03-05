@@ -13,7 +13,6 @@ function Footer() {
   return (
     <div className='footer__container'>
       <section className='footer__subscription'>
-      <div className="image-source">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         <p className='footer__subscription--heading'>
           Gelişmeleri daha yakından takip etmek için mail sistemimize üye olabilirsin
         </p>
@@ -36,33 +35,33 @@ function Footer() {
         <div className='footer__link__wrapper'>
           <div className='footer__link--items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>Kayıt Ol</Link>
-            <Link to='/'>Cloud Nedir?</Link>
-            <Link to='/'>Cloud Computing Nedir?</Link>
+            <Link to='/cloud-computing-template/sign-up'>Kayıt Ol</Link>
+            <Link to='#'>Cloud Nedir?</Link>
+            <Link to='#'>Cloud Computing Nedir?</Link>
           </div>
           <div className='footer__link--items'>
             <h2>Bize Ulaşın</h2>
-            <Link to='/'>İletişim</Link>
-            <Link to='/'>Destek</Link>
+            <Link to='#'>İletişim</Link>
+            <Link to='#'>Destek</Link>
           </div>
         </div>
         <div className='footer__link__wrapper'>
           <div className='footer__link--items'>
             <h2>Yazılar</h2>
-            <Link to='/'>Gelişmeler</Link>
-            <Link to='/'>Uygulamalar</Link>
+            <Link to='#'>Gelişmeler</Link>
+            <Link to='#'>Uygulamalar</Link>
           </div>
           <div className='footer__link--items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='#'>Instagram</Link>
+            <Link to='#'>Twitter</Link>
           </div>
         </div>
       </div>
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
-            <Link to='/' className='social-logo'>
+            <Link to='#' className='social-logo'>
               <BsCloud className='navbar-icon' />
               Cloud Computing
             </Link>
@@ -71,7 +70,7 @@ function Footer() {
           <div className='social-icons'>
             <Link
               className='social-icon-link'
-              to='/'
+              to='#'
               target='_blank'
               aria-label='Instagram'
             >

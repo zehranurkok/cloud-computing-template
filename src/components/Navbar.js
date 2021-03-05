@@ -71,7 +71,7 @@ function Navbar() {
                     <Button buttonStyle='btn--outline'>ÜYE OL</Button>
                   </Link>
                 ) : (
-                  <Link to='/sign-up' className='btn-link'>
+                  <Link to='/cloud-computing-template/sign-up' className='btn-link'>
                     <Button
                       buttonStyle='btn--outline'
                       buttonSize='btn--mobile'

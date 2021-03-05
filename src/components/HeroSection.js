@@ -16,7 +16,7 @@ function HeroSection({
                             <div className="top-line">{topLine}</div>
                             <h1 className={LightText ? 'heading' : 'heading dark'}>{headLine}</h1>
                             <p className={LightTextDesc ? 'home__hero--subtitle' : 'home__hero--subtitle dark'}>{description}</p>
-                            <Link to="/sign-up">
+                            <Link to="/cloud-computing-template/sign-up">
                                 <Button buttonSize='btn--wide' buttonColor='blue'>
                                     {buttonLabel}
                                 </Button>
