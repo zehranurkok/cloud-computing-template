@@ -32,7 +32,7 @@ function Navbar() {
       <IconContext.Provider value={{ color: '#b73225' }}>
         <nav className='navbar'>
           <div className='navbar-container container'>
-            <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+            <Link to='/cloud-computing-template/' className='navbar-logo' onClick={closeMobileMenu}>
               <BsCloud className='navbar-icon' />
               Cloud Computing
             </Link>
@@ -43,13 +43,13 @@ function Navbar() {
             </IconContext.Provider>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
               <li className='nav-item'>
-                <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/cloud-computing-template' className='nav-links' onClick={closeMobileMenu}>
                   Ana Sayfa
                 </Link>
               </li>
               <li className='nav-item'>
                 <Link
-                  to='/services'
+                  to='/cloud-computing-template/services'
                   className='nav-links'
                   onClick={closeMobileMenu}
                 >
@@ -58,7 +58,7 @@ function Navbar() {
               </li>
               <li className='nav-item'>
                 <Link
-                  to='/learnmore'
+                  to='/cloud-computing-template/learnmore'
                   className='nav-links'
                   onClick={closeMobileMenu}
                 >
@@ -67,7 +67,7 @@ function Navbar() {
               </li>
               <li className='nav-btn'>
                 {button ? (
-                  <Link to='/sign-up' className='btn-link'>
+                  <Link to='/cloud-computing-template/sign-up' className='btn-link'>
                     <Button buttonStyle='btn--outline'>ÜYE OL</Button>
                   </Link>
                 ) : (
