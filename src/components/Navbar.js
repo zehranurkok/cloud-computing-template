@@ -43,7 +43,7 @@ function Navbar() {
             </IconContext.Provider>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
               <li className='nav-item'>
-                <Link to='/cloud-computing-template' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/cloud-computing-template/' className='nav-links' onClick={closeMobileMenu}>
                   Ana Sayfa
                 </Link>
               </li>
