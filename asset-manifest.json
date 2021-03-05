@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cloud-computing-template/static/css/main.d010511c.chunk.css",
-    "main.js": "/cloud-computing-template/static/js/main.47e341a5.chunk.js",
-    "main.js.map": "/cloud-computing-template/static/js/main.47e341a5.chunk.js.map",
+    "main.css": "/cloud-computing-template/static/css/main.02b71244.chunk.css",
+    "main.js": "/cloud-computing-template/static/js/main.eae3fef6.chunk.js",
+    "main.js.map": "/cloud-computing-template/static/js/main.eae3fef6.chunk.js.map",
     "runtime-main.js": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js",
     "runtime-main.js.map": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js.map",
     "static/js/2.8d2fc928.chunk.js": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js",
     "static/js/2.8d2fc928.chunk.js.map": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.map",
     "index.html": "/cloud-computing-template/index.html",
-    "static/css/main.d010511c.chunk.css.map": "/cloud-computing-template/static/css/main.d010511c.chunk.css.map",
+    "static/css/main.02b71244.chunk.css.map": "/cloud-computing-template/static/css/main.02b71244.chunk.css.map",
     "static/js/2.8d2fc928.chunk.js.LICENSE.txt": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3aa00b92.js",
     "static/js/2.8d2fc928.chunk.js",
-    "static/css/main.d010511c.chunk.css",
-    "static/js/main.47e341a5.chunk.js"
+    "static/css/main.02b71244.chunk.css",
+    "static/js/main.eae3fef6.chunk.js"
   ]
 }
