@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cloud-computing-template/static/css/main.02b71244.chunk.css",
+    "main.css": "/cloud-computing-template/static/css/main.f00a1215.chunk.css",
     "main.js": "/cloud-computing-template/static/js/main.eae3fef6.chunk.js",
     "main.js.map": "/cloud-computing-template/static/js/main.eae3fef6.chunk.js.map",
     "runtime-main.js": "/cloud-computing-template/static/js/runtime-main.3aa00b92.js",
@@ -8,13 +8,13 @@
     "static/js/2.8d2fc928.chunk.js": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js",
     "static/js/2.8d2fc928.chunk.js.map": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.map",
     "index.html": "/cloud-computing-template/index.html",
-    "static/css/main.02b71244.chunk.css.map": "/cloud-computing-template/static/css/main.02b71244.chunk.css.map",
+    "static/css/main.f00a1215.chunk.css.map": "/cloud-computing-template/static/css/main.f00a1215.chunk.css.map",
     "static/js/2.8d2fc928.chunk.js.LICENSE.txt": "/cloud-computing-template/static/js/2.8d2fc928.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3aa00b92.js",
     "static/js/2.8d2fc928.chunk.js",
-    "static/css/main.02b71244.chunk.css",
+    "static/css/main.f00a1215.chunk.css",
     "static/js/main.eae3fef6.chunk.js"
   ]
 }
