@@ -1,3 +1,3 @@
-# Cloud Computing Template for Kodluyoruz Front-End 101 Bootcamp
+# Cloud Computing Template for Kodluyoruz Front-End Development Bootcamp
 
-Final project which is written with pure React and SCSS for final project of graduation Kodluyoruz Front-End Development 101.
+Final project which is written with pure React and SCSS for final project of graduation Kodluyoruz Front-End Development Bootcamp.
